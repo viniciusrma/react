@@ -26,7 +26,7 @@ const myTeam = {
 // JSX elements can have attributes, just like HTML elements can, like:
 
 <a href="http://www.example.com">Welcome to the Web</a>;
-
+ 
 const title = <h1 id="title">Introduction to React.js: Part I</h1>; 
 
 /*
