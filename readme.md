@@ -19,6 +19,7 @@
 ## 📑 About
 
 Welcome! 
+
 This project was made in study about React!
 It's a single page file written in a javascript (as react uses it as parameter) screen and throughout the reading we realize the main steps to make React components!
 
